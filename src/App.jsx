@@ -1,5 +1,10 @@
+import InputBox from "./Inputbox";
+
+
 function App() {
-  return <></>;
+  return <>
+ <InputBox/>
+ </>;
 }
 
 export default App;
